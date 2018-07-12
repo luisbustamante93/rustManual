@@ -1,0 +1,1 @@
+C:\Users\luis.bustamante\Documents\experiments\rustStuff\rustManual\hello_cargo\target\debug\hello_cargo.pdb: C:\Users\luis.bustamante\Documents\experiments\rustStuff\rustManual\hello_cargo\src\main.rs
