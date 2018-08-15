@@ -2,5 +2,5 @@
 
 fn main(){
     // ! is for macro functions
-    println!("Hello World");
+    println!("Hello Rut");
 }
